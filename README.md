@@ -14,7 +14,7 @@ Junior Frontend Developer
 
 ### Fullstack Task Manager  
 A simple task manager with React + Node + PostgreSQL  
-🔗 https://github.com/DanielDaineko/fullstack-task-manager
+🔗 [https://github.com/DanielDaineko/fullstack-task-manager](https://github.com/DanielDaineko/Junior-Frontend-React-)
 
 ### Countries Explorer  
 React app that fetches real country data from REST API  
