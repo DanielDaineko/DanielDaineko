@@ -22,3 +22,4 @@ React app that fetches real country data from REST API
 
 ## Contacts  
 - GitHub: @DanielDaineko  
+- Outlook: daniel.daineko@eek.ee
