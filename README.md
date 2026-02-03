@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi! I'm Daniel  
 
-<!--
-**DanielDaineko/DanielDaineko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Frontend Developer  
 
-Here are some ideas to get you started:
+## Skills  
+- React  
+- JavaScript (ES6+)  
+- HTML / CSS  
+- Git & GitHub  
+- REST APIs  
+- Node.js (basic)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects  
+
+### Fullstack Task Manager  
+A simple task manager with React + Node + PostgreSQL  
+🔗 https://github.com/DanielDaineko/fullstack-task-manager  
+
+### Countries Explorer  
+React app that fetches real country data from REST API  
+🔗 https://github.com/DanielDaineko/Countries-Explorer  
+
+## Contacts  
+- GitHub: @DanielDaineko  
