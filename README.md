@@ -12,7 +12,9 @@ Junior Frontend Developer
 
 ## My Projects  
 ### React-DashBoard
-https://github.com/DanielDaineko/React-Dashboard
+
+🔗 https://github.com/DanielDaineko/React-Dashboard
+
 ### Fullstack Task Manager  
 A simple task manager with React + Node + PostgreSQL  
 🔗 [https://github.com/DanielDaineko/fullstack-task-manager](https://github.com/DanielDaineko/Junior-Frontend-React-)
