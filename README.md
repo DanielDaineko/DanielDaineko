@@ -12,7 +12,7 @@ Junior Frontend Developer
 
 ## My Projects  
 ### React-DashBoard
-
+Interactive analytics dashboard built with React. Includes authentication, data visualization with Chart.js, search, filters, and REST API integration.
 🔗 https://github.com/DanielDaineko/React-Dashboard
 
 ### Fullstack Task Manager  
