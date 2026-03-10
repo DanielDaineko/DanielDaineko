@@ -34,7 +34,11 @@ Worked on a diploma project during my school internship where I designed and dev
 - Navigation and interface architecture design
 
 ### Tech Stack
-HTML, CSS, Bootstrap, JavaScript, UX/UI
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- UX/UI
 🔗 https://github.com/DanielDaineko/PrototipMobile
 
 ## Contacts  
