@@ -11,6 +11,9 @@ Junior Frontend Developer
 - Node.js (basic)  
 
 ## My Projects  
+### FreelanceFlow
+
+🔗 https://github.com/DanielDaineko/freelanceflow/tree/main
 ### React-DashBoard
 Interactive analytics dashboard built with React. Includes authentication, data visualization with Chart.js, search, filters, and REST API integration.
 🔗 https://github.com/DanielDaineko/React-Dashboard
