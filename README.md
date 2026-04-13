@@ -46,7 +46,7 @@ Worked on a diploma project during my school internship where I designed and dev
 - Bootstrap
 - JavaScript
 - UX/UI
-🔗 https://github.com/DanielDaineko/PrototipMobile
+- 🔗 https://github.com/DanielDaineko/PrototipMobile
 
 ## Contacts  
 - GitHub: @DanielDaineko  
