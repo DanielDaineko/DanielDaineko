@@ -11,9 +11,13 @@ Junior Frontend Developer
 - Node.js (basic)  
 
 ## My Projects  
-### FreelanceFlow
 
-🔗 https://github.com/DanielDaineko/freelanceflow/tree/main
+### FreelanceFlow
+Full-stack SaaS-style freelance management application built with React, Zustand, Node.js, Express, Prisma, and PostgreSQL.  
+Implements full CRUD operations, authentication (JWT), Kanban task board, financial tracking, filters, and reusable UI system.
+Live demo: coming soon
+🔗 https://github.com/DanielDaineko/freelanceflow
+
 ### React-DashBoard
 Interactive analytics dashboard built with React. Includes authentication, data visualization with Chart.js, search, filters, and REST API integration.
 🔗 https://github.com/DanielDaineko/React-Dashboard
