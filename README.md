@@ -16,19 +16,19 @@ Junior Frontend Developer
 Full-stack SaaS-style freelance management application built with React, Zustand, Node.js, Express, Prisma, and PostgreSQL.  
 Implements full CRUD operations, authentication (JWT), Kanban task board, financial tracking, filters, and reusable UI system.
 - Live demo: coming soon
-🔗 https://github.com/DanielDaineko/freelanceflow
+- 🔗 https://github.com/DanielDaineko/freelanceflow
 
 ### React-DashBoard
 Interactive analytics dashboard built with React. Includes authentication, data visualization with Chart.js, search, filters, and REST API integration.
-🔗 https://github.com/DanielDaineko/React-Dashboard
+- 🔗 https://github.com/DanielDaineko/React-Dashboard
 
 ### Fullstack Task Manager  
 A simple task manager with React + Node + PostgreSQL  
-🔗 [https://github.com/DanielDaineko/fullstack-task-manager](https://github.com/DanielDaineko/Junior-Frontend-React-)
+- 🔗 [https://github.com/DanielDaineko/fullstack-task-manager](https://github.com/DanielDaineko/Junior-Frontend-React-)
 
 ### Countries Explorer  
 React app that fetches real country data from REST API  
-🔗 https://github.com/DanielDaineko/Countries-Explorer  
+- 🔗 https://github.com/DanielDaineko/Countries-Explorer  
 
 ## Internship & Diploma Project
 
