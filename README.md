@@ -13,8 +13,10 @@ Junior Frontend Developer
 ## My Projects  
 
 ### FreelanceFlow
-Full-stack SaaS-style freelance management application built with React, Zustand, Node.js, Express, Prisma, and PostgreSQL.  
-Implements full CRUD operations, authentication (JWT), Kanban task board, financial tracking, filters, and reusable UI system.
+Full-stack SaaS-style freelance management platform built with React, Zustand, Node.js, Express, Prisma, and PostgreSQL.
+
+Includes authentication (JWT), CRUD operations, dashboard analytics, and deployment on Vercel + Render.
+
 - Live demo: 🔗 [FreelanceFlow](https://freelanceflow-66m4-nsjh1tfxk-danieldainekos-projects.vercel.app/)
 - 🔗 https://github.com/DanielDaineko/freelanceflow
 
