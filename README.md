@@ -2,13 +2,17 @@
 
 Junior Frontend Developer  
 
-## Skills  
-- React  
-- JavaScript (ES6+)  
-- HTML / CSS  
-- Git & GitHub  
-- REST APIs  
-- Node.js (basic)  
+## Skills
+
+- React, JavaScript (ES6+), HTML, CSS
+- Zustand (state management)
+- Node.js, Express
+- PostgreSQL, Prisma
+- REST API
+- JWT Authentication
+- Git, GitHub, Vite
+- Vercel, Render, Neon
+- UX/UI basics
 
 ## My Projects  
 
