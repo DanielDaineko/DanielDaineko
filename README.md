@@ -38,7 +38,6 @@ Premium transfer service website with multilingual support, responsive design, p
 
 ### FreelanceFlow
 Full-stack SaaS-style freelance management platform built with React, Zustand, Node.js, Express, Prisma, and PostgreSQL.
-
 Includes authentication (JWT), CRUD operations, dashboard analytics, and deployment on Vercel + Render.
 
 - Live demo: 🔗 [FreelanceFlow](https://freelanceflow-66m4-nsjh1tfxk-danieldainekos-projects.vercel.app/)
