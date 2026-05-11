@@ -30,10 +30,9 @@ Junior Frontend Developer
 
 ## My Projects  
 
-## EuroTransfer
+### EuroTransfer
 Premium transfer service website for Estonia.
 
-### Features
 - Multi-language support (EE / RU / EN)
 - Responsive design
 - Premium dark UI
