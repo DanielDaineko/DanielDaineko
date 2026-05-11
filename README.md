@@ -40,7 +40,8 @@ Premium transfer service website for Estonia.
 - Contact integration
 - Vercel deployment
 
-🔗 Live Demo: https://eurotransfer.ee
+- Live Demo: 🔗 https://eurotransfer.ee
+- 🔗 https://github.com/DanielDaineko/eurotransfer
 
 ### FreelanceFlow
 Full-stack SaaS-style freelance management platform built with React, Zustand, Node.js, Express, Prisma, and PostgreSQL.
