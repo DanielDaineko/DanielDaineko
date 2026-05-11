@@ -1,6 +1,6 @@
 # Hi! I'm Daniel  
 
-Junior Frontend Developer  
+Frontend Developer focused on modern web applications and UI/UX. 
 
 ## Skills
 
