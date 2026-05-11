@@ -31,14 +31,7 @@ Frontend Developer focused on modern web applications and UI/UX.
 ## My Projects  
 
 ### EuroTransfer
-Premium transfer service website for Estonia.
-
-- Multi-language support (EE / RU / EN)
-- Responsive design
-- Premium dark UI
-- Animated sections
-- Contact integration
-- Vercel deployment
+Premium transfer service website with multilingual support, responsive design, premium dark UI, and Vercel deployment.
 
 - Live Demo: 🔗 https://eurotransfer.ee
 - 🔗 https://github.com/DanielDaineko/eurotransfer
