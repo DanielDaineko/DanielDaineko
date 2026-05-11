@@ -4,17 +4,44 @@ Junior Frontend Developer
 
 ## Skills
 
-- React, JavaScript (ES6+), HTML, CSS
-- Zustand (state management)
-- Node.js, Express
-- PostgreSQL, Prisma
+### Frontend
+- React
+- JavaScript (ES6+)
+- HTML5 / CSS3
+- Vite
+- Zustand
+
+### Backend
+- Node.js
+- Express.js
 - REST API
 - JWT Authentication
-- Git, GitHub, Vite
-- Vercel, Render, Neon
+
+### Database
+- PostgreSQL
+- Prisma ORM
+
+### Tools
+- Git / GitHub
+- Vercel
+- Render
+- Neon
 - UX/UI basics
 
 ## My Projects  
+
+## EuroTransfer
+Premium transfer service website for Estonia.
+
+### Features
+- Multi-language support (EE / RU / EN)
+- Responsive design
+- Premium dark UI
+- Animated sections
+- Contact integration
+- Vercel deployment
+
+🔗 Live Demo: https://eurotransfer.ee
 
 ### FreelanceFlow
 Full-stack SaaS-style freelance management platform built with React, Zustand, Node.js, Express, Prisma, and PostgreSQL.
