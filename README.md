@@ -1,6 +1,6 @@
 # Hi! I'm Daniel  
 
-Frontend Developer focused on modern web applications and UI/UX. 
+Currently working on production-ready frontend applications with SEO optimization and custom domain deployment.
 
 ## Skills
 
@@ -9,24 +9,34 @@ Frontend Developer focused on modern web applications and UI/UX.
 - JavaScript (ES6+)
 - HTML5 / CSS3
 - Vite
-- Zustand
+- Responsive Design
+- Mobile-first Development
+- Multilingual UI (i18n)
+- Component-based Architecture
 
-### Backend
+### SEO & Performance
+- Technical SEO
+- Sitemap.xml
+- Google Search Console
+- Meta Tags Optimization
+- Open Graph
+
+### Deployment & Infrastructure
+- Vercel
+- Custom Domains
+- DNS Configuration
+- SSL / HTTPS
+- DNSSEC
+
+### Backend Basics
 - Node.js
 - Express.js
 - REST API
-- JWT Authentication
-
-### Database
-- PostgreSQL
-- Prisma ORM
 
 ### Tools
 - Git / GitHub
-- Vercel
-- Render
-- Neon
-- UX/UI basics
+- VS Code
+- Figma Basics
 
 ## My Projects  
 
