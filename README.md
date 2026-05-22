@@ -2,6 +2,8 @@
 
 Currently working on production-ready frontend applications with SEO optimization and custom domain deployment.
 
+---
+
 ## Skills
 
 ### Frontend
@@ -11,35 +13,34 @@ Currently working on production-ready frontend applications with SEO optimizatio
 - Vite
 - Responsive Design
 - Mobile-first Development
-- Multilingual UI (i18n)
 - Component-based Architecture
 
-### SEO & Performance
+### Backend
+- Node.js
+- Express.js
+- REST APIs
+- GraphQL
+- MongoDB
+- Mongoose
+- SQL
+- Sequelize
+
+### SEO & Deployment
 - Technical SEO
 - Sitemap.xml
-- Google Search Console
 - Meta Tags Optimization
 - Open Graph
-
-### Deployment & Infrastructure
 - Vercel
 - Custom Domains
 - DNS Configuration
 - SSL / HTTPS
-- DNSSEC
-
-### Backend Basics
-- Node.js
-- Express.js
-- REST API
-- MongoDB
-- SQL
-- GraphQL
 
 ### Tools
 - Git / GitHub
 - VS Code
 - Figma Basics
+
+---
 
 ## My Projects  
 
