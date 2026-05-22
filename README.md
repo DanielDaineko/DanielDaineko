@@ -32,6 +32,9 @@ Currently working on production-ready frontend applications with SEO optimizatio
 - Node.js
 - Express.js
 - REST API
+- MongoDB
+- SQL
+- GraphQL
 
 ### Tools
 - Git / GitHub
