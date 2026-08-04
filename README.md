@@ -149,7 +149,7 @@ Built to practice TypeScript fundamentals and understand how static typing impro
 
 ---
 
-## 🎓 Internship & Diploma Project
+## Internship & Diploma Project
 
 During my school internship, I designed and developed a mobile web interface prototype for an educational institution.
 
